@@ -1,2 +1,2 @@
-# CS-EZcalculator
+# EZcalculator
 An easy calculator in C#.
